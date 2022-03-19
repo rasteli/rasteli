@@ -1,17 +1,17 @@
 ### Hi there, I'm Gabriel Rasteli 👋
 ![me.gif](./src/me.gif)
 
-## Full-Stack Developer
-I am a 20-year-old full-stack developer, mainly focused on web development. I have been developing for 4 years and I am currently living in Brazil. In my spare time, I create open source projects and enjoy reading and playing Minecraft.
+## Full-Stack Developer 🖥️
+I am a 20-year-old full-stack developer, mainly focused on front-end development. I have been developing for 4 years and I am currently living in Brazil. In my spare time, I create open source projects and enjoy reading and playing Minecraft.
 
-## Relevant Skills
+## Relevant Skills 📑
 ![skill sliders](./src/skills.png)
-> I'm also learning Angular right now.
+> I'm also learning Angular and Prisma right now.
 
-## Hit me up ;)
+## Hit me up 😅
 I am now looking for a job as a front-end/back-end/full-stack developer at a real company. I'm also available for freelancing stuff if I have the time for it. Please, don't be shy :)
 
-## Graduation
+## Graduation 🎓
 I'm a Computer Science undergraduate at Centro Universitário Barão de Mauá.
 
 <!--
