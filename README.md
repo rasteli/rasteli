@@ -14,11 +14,11 @@ I am a 20-year-old *full-stack developer*, mainly focused on front-end developme
 
 ## Featured Projects
 
-<a href="https://github.com/rasteli/Kodikos-Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasteli&repo=Kodikos-Backend&theme=omni" />
+<a href="https://github.com/rasteli/NLW-eSports">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasteli&repo=NLW-eSports&theme=omni" />
 </a>
-<a href="https://github.com/rasteli/Tiajuda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasteli&repo=Tiajuda&theme=omni" />
+<a href="https://github.com/rasteli/AI-Facial-Web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasteli&repo=AI-Facial-Web&theme=omni" />
 </a>
 
 ## Hit me up 😅
@@ -26,18 +26,3 @@ I am now looking for a job as a front-end/back-end/full-stack developer at a rea
 
 ## Graduation 🎓
 I'm a **Computer Science** undergraduate at *Centro Universitário Barão de Mauá*.
-
-<!--
-**rasteli/rasteli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
