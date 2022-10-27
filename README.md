@@ -4,12 +4,14 @@ I am a 20-year-old _full-stack developer_, mainly focused on front-end developme
 
 ## 🖥️ Techs and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-<img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="40" height="40" />
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="40" height="40" />
+</div>
 
 <br/>
 <br/>
@@ -23,11 +25,11 @@ I am a 20-year-old _full-stack developer_, mainly focused on front-end developme
 
 <div>
   <a href="mailto:gabrielrasteli3@gmail.com" target="_blank">
-    <img alt="Gmail" width="25px" src="../rasteli/.github/gmail.svg" />
+    <img alt="Gmail" width="25px" src="./.github/gmail.svg" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gabriel-rasteli-aab3451a0" target="_blank">
-    <img alt="LinkedIn" width="25px" src="../rasteli/.github/linkedin.svg" />
+    <img alt="LinkedIn" width="25px" src="./.github/linkedin.svg" />
   </a>
 </div>
 
