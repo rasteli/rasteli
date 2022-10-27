@@ -38,6 +38,6 @@ I am a 20-year-old _full-stack developer_, mainly focused on front-end developme
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasteli&show_icons=true&theme=dracula&custom_title=My%20GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasteli&show_icons=true&count_private=true&theme=dracula&custom_title=My%20GitHub%20Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasteli&theme=dracula&layout=compact&hide=GDScript" />
 </div>
