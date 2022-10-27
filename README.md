@@ -1,28 +1,41 @@
-### Hi there, I'm Gabriel Rasteli 👋
-![me.gif](./src/me.gif)
+## Hi there, I'm Gabriel Rasteli 👋
 
-## Full-Stack Developer 🖥️
-I am a 20-year-old *full-stack developer*, mainly focused on front-end development. I have been developing for 4 years and I am currently living in Brazil. In my spare time, I create open source projects and enjoy reading and playing Minecraft.
+I am a 20-year-old _full-stack developer_, mainly focused on front-end development. I have been developing for 4 years and I am currently living in Brazil. In my spare time, I create open source projects and enjoy reading and playing video games (Overwatch cof cof...)
 
-## Most used languages
+## 🖥️ Techs and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasteli&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="40" height="40" />
 
-## GitHub Stats
+<br/>
+<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasteli&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+<div display="inline-block">
+  <p>🎓 I'm a Computer Science undergraduate at Centro Universitário Barão de Mauá.</p>
+  <p>📚 I'm currently studying Tailwindcss to style my React apps and Vitest to test my code.</p>
+</div>
 
-## Featured Projects
+<br/>
 
-<a href="https://github.com/rasteli/NLW-eSports">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasteli&repo=NLW-eSports&theme=omni" />
-</a>
-<a href="https://github.com/rasteli/AI-Facial-Web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rasteli&repo=AI-Facial-Web&theme=omni" />
-</a>
+<div>
+  <a href="mailto:gabrielrasteli3@gmail.com" target="_blank">
+    <img alt="Gmail" width="25px" src="../rasteli/.github/gmail.svg" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-rasteli-aab3451a0" target="_blank">
+    <img alt="LinkedIn" width="25px" src="../rasteli/.github/linkedin.svg" />
+  </a>
+</div>
 
-## Hit me up 😅
-I am now looking for a job as a front-end/back-end/full-stack developer at a real company. I'm also available for freelancing stuff if I have the time for it. **Please, don't be shy** :)
+<br/>
 
-## Graduation 🎓
-I'm a **Computer Science** undergraduate at *Centro Universitário Barão de Mauá*.
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasteli&show_icons=true&theme=dracula&custom_title=My%20GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasteli&theme=dracula&layout=compact&hide=GDScript" />
+</div>
