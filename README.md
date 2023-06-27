@@ -1,16 +1,17 @@
 ## Hi there, I'm Gabriel Rasteli 👋
 
-I am a 20-year-old _full-stack developer_, mainly focused on front-end development. I have been developing for 4 years and I am currently living in Brazil. In my spare time, I create open source projects and enjoy reading and playing video games (Overwatch cof cof...)
+I am a 21-year-old full-stack web developer, mainly focused on front-end development. I have been programming for 5 years and I am currently living in Brazil. In my spare time, I create open source projects and enjoy reading and playing video games.
 
 ## 🖥️ Techs and Tools
 
 <div>
   <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img title="Next.js" src="https://github.com/rasteli/rasteli/assets/59903124/a80478af-d844-4531-bba5-6b3757c34dfc" width="40" height="40" />
   <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img title="Tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img title="vitest" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="40" height="40" />
+  <img title="Vitest" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="40" height="40" />
 </div>
 
 <br/>
@@ -18,7 +19,7 @@ I am a 20-year-old _full-stack developer_, mainly focused on front-end developme
 
 <div display="inline-block">
   <p>🎓 I'm a Computer Science undergraduate at Centro Universitário Barão de Mauá.</p>
-  <p>📚 I'm currently studying Tailwindcss to style my React apps and Vitest to test my code.</p>
+  <p>📚 I'm currently studying Redux and Zustand for state management in my React apps.</p>
 </div>
 
 <br/>
